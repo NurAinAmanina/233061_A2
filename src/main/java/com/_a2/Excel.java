@@ -9,6 +9,15 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
+/**
+ Semester: A171 
+ * Course: STIW3054 
+ * Group: A 
+ * Task: Assignment 2 
+ * Matric: 233061
+ * Name: NurAinAmanina
+ */
+
 public class Excel{
 
     HSSFWorkbook workbook = new HSSFWorkbook();;

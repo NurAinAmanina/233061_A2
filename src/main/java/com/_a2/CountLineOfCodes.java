@@ -6,6 +6,15 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.LineNumberReader;
 
+/**
+ Semester: A171 
+ * Course: STIW3054 
+ * Group: A 
+ * Task: Assignment 2
+ * Matric: 233061
+ * Name: NurAinAmanina
+ */
+
 public class CountLineOfCodes extends mainAssignment2{
     
     public int countLineNumber() {

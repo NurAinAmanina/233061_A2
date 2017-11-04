@@ -5,6 +5,16 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
+/**
+ Semester: A171 
+ * Course: STIW3054 
+ * Group: A 
+ * Task: Assignment 2 
+ * Matric: 233061
+ * Name: NurAinAmanina
+ */
+
+
 public class Comment extends mainAssignment2{
     String sem, course, grp, task, name, matric; 
     

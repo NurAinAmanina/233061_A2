@@ -18,6 +18,16 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeMap;
 
+/**
+ Semester: A171 
+ * Course: STIW3054 
+ * Group: A 
+ * Task: Assignment 2 
+ * Matric: 233061
+ * Name: NurAinAmanina
+ */
+
+
 public class Keywords extends mainAssignment2 {
     
     int counter = 0;

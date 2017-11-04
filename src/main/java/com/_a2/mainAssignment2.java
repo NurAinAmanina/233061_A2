@@ -5,6 +5,15 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Map;
 
+/**
+ Semester: A171 
+ * Course: STIW3054 
+ * Group: A 
+ * Task: Assignment 2 
+ * Matric: 233061
+ * Name: NurAinAmanina
+ */
+
 public class mainAssignment2 {
     
         final String PATH = "C:\\Users\\admin\\Desktop\\TestFileAsg2";
